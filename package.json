@@ -1,0 +1,15 @@
+{
+  "name": "ttl-validation",
+  "version": "1.0.0",
+  "description": "script used to calculate ideal ttl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elisson Alves Silva <elisson.silva@linx3.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "csvsync": "^1.2.0"
+  }
+}
